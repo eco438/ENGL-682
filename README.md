@@ -1,6 +1,6 @@
 # ENGL-682
 
-Project Name: Modelling and Datasets affect on Explanability.
+Project Name: Modeling Datasets Effects on Explanability.
 
 Project Abstract:
 
