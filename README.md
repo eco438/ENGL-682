@@ -5,7 +5,7 @@ Project Name: Modeling Datasets Effects on Explanability.
 Project Abstract:
 
 
-[Project Abstract](https://drive.google.com/drive/u/1/folders/16GHcOwcZ5GCBoTeHOJVXRW1cO2DqrAeP)
+[Project Abstract](https://app.luminpdf.com/viewer/608f5614218e840012079c09)
 
 
 Interim work:
@@ -15,7 +15,7 @@ Interim work:
 
 [Interim Presentation 2](https://docs.google.com/presentation/d/1IwLWTH8MnbLnKFzzAvV8qpQcIS2ciFm0fj1_y1JQwUs/edit?usp=sharing)
 
-[Interim Report](https://drive.google.com/drive/u/1/folders/16GHcOwcZ5GCBoTeHOJVXRW1cO2DqrAeP)
+[Interim Report](https://app.luminpdf.com/viewer/608f566f218e840012079c13)
 
 Final Work:
 
