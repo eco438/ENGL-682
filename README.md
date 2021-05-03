@@ -2,14 +2,14 @@
 
 Project Name: Modelling and Datasets affect on Explanability.
 
-**Project Abstract:
-**
+Project Abstract:
+
 
 [Project Abstract](https://drive.google.com/drive/u/1/folders/16GHcOwcZ5GCBoTeHOJVXRW1cO2DqrAeP)
 
 
-**Interim work:
-**
+Interim work:
+
 
 [Interim Presention 1](https://docs.google.com/presentation/d/1u-KVI9smL1CpiX8Mbg__mcg6_ELmhMzMyMh2N69WBEQ/edit?usp=sharing)
 
@@ -17,8 +17,7 @@ Project Name: Modelling and Datasets affect on Explanability.
 
 [Interim Report](https://drive.google.com/drive/u/1/folders/16GHcOwcZ5GCBoTeHOJVXRW1cO2DqrAeP)
 
-**Final Work:
-**
+Final Work:
 
 [Slide Deck](https://docs.google.com/presentation/d/1u-KVI9smL1CpiX8Mbg__mcg6_ELmhMzMyMh2N69WBEQ/edit#slide=id.p)
 
