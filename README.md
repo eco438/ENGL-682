@@ -23,4 +23,4 @@ Final Work:
 
 [Final Report](https://app.luminpdf.com/viewer/609cab0075d4580011356350)
 
-[Demo](https://colab.research.google.com/drive/1ExURp3difekEuqKRXKxhroM1RYvK0r_H?authuser=1)
+[Demo](https://rit.zoom.us/rec/share/5l2L-Xfpsx0OC4k5ezGki1fpAsvpMDuo2ZRsPbpwB4gO9bK5cgBabP0SJ3mRUqr3.-TJpq9nX166c4Cnp?startTime=1620911524000)
