@@ -21,6 +21,6 @@ Final Work:
 
 [Slide Deck](https://docs.google.com/presentation/d/1u-KVI9smL1CpiX8Mbg__mcg6_ELmhMzMyMh2N69WBEQ/edit#slide=id.p)
 
-[Final Report]()
+[Final Report](https://app.luminpdf.com/viewer/609cab0075d4580011356350)
 
 [Demo](https://colab.research.google.com/drive/1ExURp3difekEuqKRXKxhroM1RYvK0r_H?authuser=1)
